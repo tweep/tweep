@@ -43,7 +43,7 @@ Open to senior engineering roles building AI platforms at the frontier of comput
 
 ---
 
-*📍 Reno, NV · [LinkedIn](https://www.linkedin.com/in/janhinnerkvogel/) · Available for senior platform / ML engineering roles*
+*📍 San Francisco Bay Area, CA · [LinkedIn](https://www.linkedin.com/in/janhinnerkvogel/) · Available for senior platform / ML engineering roles*
 
 <!--
 **tweep/tweep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
